@@ -15,6 +15,7 @@ process.(i)Positives:IoU(the Intersection-over-Union) above equal 0.65 to a grou
 (iii)Part faces:IoU between 0.4 and 0.65 to a ground truth face
 2.Network structure, mtcnn is divided into three small networks
 ![net.png](https://github.com/zhangcheng007/face_detection_base_on_mtcnn/blob/master/netgraph/net.png)
+<br/>
 
 ##Result
 ![1.jpg](https://github.com/zhangcheng007/face_detection_base_on_mtcnn/blob/master/test/result/1.jpg)

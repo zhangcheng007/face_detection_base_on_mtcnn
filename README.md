@@ -3,7 +3,7 @@
 It based on tensorflow for training implementation , very simple and easy.
 <br/>
 
-##Prerequisites
+## Prerequisites
 1.You can use gpu or cpu to train this model
 2.Our data comes from WIDER Face(http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/) and mmlab(http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm)
 
